@@ -1,7 +1,12 @@
 # todo
-- Blog
+- Blog / revisited 
 - db/devops
-- logic synth/keyboard
+- logic synth?
+- keyboard
 - markov smth emulation/simulation
 - stats/ data sci
 - dungeon crawler
+- a toy language?
+- a shell?
+- wifi clock
+- kafka steaming demo
