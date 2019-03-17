@@ -10,3 +10,5 @@
 - a shell?
 - wifi clock
 - kafka steaming demo
+- do something with Mercury/Prolog
+- do something with TLA+
